@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+#import <SVProgressHUD.h>
+
 @interface QMViewController : UIViewController
 
 @end
